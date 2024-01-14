@@ -1,0 +1,6 @@
+https://teachablemachine.withgoogle.com/models/tGhUCXI04/model.json
+
+Background Noise
+meowing
+roar
+mooing
